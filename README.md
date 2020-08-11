@@ -1,6 +1,6 @@
 # Static web applications
 
-This repository contains the files of all the static web pages i have developed so far. All the pages are deployed using GitHub pages. I developed theses pages while learning "The Web developer bootcamp" course by Colt Steele on Udemy.
+This repository contains the files of all the static web pages i have developed so far. All the pages are deployed using GitHub pages. I developed theses pages while learning "The Web developer bootcamp" and "Advanced web developer bootcamp" on Udemy.
 
 The wdb folder also contains a few simple pages i developed while practicing javaScript. 
 
