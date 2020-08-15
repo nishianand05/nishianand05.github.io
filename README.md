@@ -7,13 +7,14 @@ The wdb folder also contains a few simple pages i developed while practicing jav
 Following are the links to view the web pages i developed.
 
 1. Mountain travel startup page - https://nishianand05.github.io/MountainTravelStartupPage/
-2. Museum of candy startup page - https://nishianand05.github.io/Museum-of-candy/
-3. Patatap Clone                - https://nishianand05.github.io/Patatap-clone/
-4. RGB Color game               - https://nishianand05.github.io/wdb/Color-game/ 
-5. To-do-list                   - https://nishianand05.github.io/wdb/To-do-list-project/
-5. Photo grid                   - https://nishianand05.github.io/wdb/Photo-grid/
-6. Score keeper                 - https://nishianand05.github.io/wdb/Scorekeeper/
-7. Pattern photo gallery        - https://nishianand05.github.io/Pattern/
-8. Blog site                    - https://nishianand05.github.io/wdb/Blog/
-9. Purrfect startup page        - https://nishianand05.github.io/wdb/Purrfect-startup/
-10. Bootstrap gallery           - https://nishianand05.github.io/wdb/bootstrap-gallery.html
+2. Guess the Password           - https://nishianand05.github.io/GuessThePassword/
+3. Museum of candy startup page - https://nishianand05.github.io/Museum-of-candy/
+4. Patatap Clone                - https://nishianand05.github.io/Patatap-clone/
+5. RGB Color game               - https://nishianand05.github.io/wdb/Color-game/ 
+6. To-do-list                   - https://nishianand05.github.io/wdb/To-do-list-project/
+7. Photo grid                   - https://nishianand05.github.io/wdb/Photo-grid/
+8. Score keeper                 - https://nishianand05.github.io/wdb/Scorekeeper/
+9. Pattern photo gallery        - https://nishianand05.github.io/Pattern/
+10. Blog site                    - https://nishianand05.github.io/wdb/Blog/
+11. Purrfect startup page        - https://nishianand05.github.io/wdb/Purrfect-startup/
+12. Bootstrap gallery           - https://nishianand05.github.io/wdb/bootstrap-gallery.html
