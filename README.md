@@ -7,7 +7,7 @@ The wdb folder also contains a few simple pages i developed while practicing jav
 Following are the links to view the web pages i developed.
 
 1. Mountain travel startup page - https://nishianand05.github.io/MountainTravelStartupPage/
-2. Guess the Password           - https://nishianand05.github.io/GuessThePassword/
+2. Guess the Password           - https://nishianand05.github.io/guessThePassword/
 3. Museum of candy startup page - https://nishianand05.github.io/Museum-of-candy/
 4. Patatap Clone                - https://nishianand05.github.io/Patatap-clone/
 5. RGB Color game               - https://nishianand05.github.io/wdb/Color-game/ 
