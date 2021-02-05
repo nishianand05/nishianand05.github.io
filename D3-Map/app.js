@@ -22,7 +22,7 @@ d3.queue()
     });
 
     var width = 860;
-    var height = 500;
+    var height = 400;
 
     var projection = d3.geoMercator()
                         .scale(125)
