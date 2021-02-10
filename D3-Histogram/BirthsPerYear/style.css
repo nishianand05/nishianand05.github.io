@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  background-color: #272640;
+}
+
+svg {
+  margin: 0 auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px;
+  font-weight: 500;
+}
+
+p, input {
+  margin: 20px;
+}
+
+#inputDiv {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+}

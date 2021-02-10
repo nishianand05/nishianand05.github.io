@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+* {
+  font-family: 'Barlow', sans-serif;
+  background-color: #fffefd;
+}
+
+svg, input {
+  margin: 0 auto;
+  display: block;
+  /* border: 1px solid red; */
+}
+
+
+.bin-count, h2 {
+  text-align: center;
+
+  
+}
+
+h2 {
+  margin: 40px;
+}
