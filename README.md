@@ -19,3 +19,4 @@ Following are the links to view the web pages i developed.
 11. Purrfect startup page        - https://nishianand05.github.io/wdb/Purrfect-startup/
 12. Bootstrap gallery           - https://nishianand05.github.io/wdb/bootstrap-gallery.html
 13. D3 - Cellular Subscription V.S. Literacy rate Scatterplot - https://nishianand05.github.io/D3-Scatterplots/CellularSubsVSLitRate/
+14. D3 - Life Expectancy V.S. Births per capita Scatterplot - https://nishianand05.github.io/D3-Scatterplots/LifeExpVSBirthsPerCapita/
