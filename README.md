@@ -20,3 +20,5 @@ Following are the links to view the web pages i developed.
 12. Bootstrap gallery           - https://nishianand05.github.io/wdb/bootstrap-gallery.html
 13. D3 - Cellular Subscription V.S. Literacy rate Scatterplot - https://nishianand05.github.io/D3-Scatterplots/CellularSubsVSLitRate/
 14. D3 - Life Expectancy V.S. Births per capita Scatterplot - https://nishianand05.github.io/D3-Scatterplots/LifeExpVSBirthsPerCapita/
+14. D3 - World Birth yearly data Pie Chart - https://nishianand05.github.io/D3-Piechart/WorldBirthData/
+14. D3 - Births by month and quarter, Yearly data, Pie Chart - https://nishianand05.github.io/D3-Piechart/BirthsByMonth/
