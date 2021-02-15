@@ -6,19 +6,21 @@ The wdb folder also contains a few simple pages i developed while practicing jav
 
 Following are the links to view the web pages i developed.
 
-1. Mountain travel startup page - <a href='https://nishianand05.github.io/MountainTravelStartupPage/'>
-2. Guess the Password           - <a href='https://nishianand05.github.io/guessThePassword/'>
-3. Museum of candy startup page - <a href='https://nishianand05.github.io/Museum-of-candy/'>
-4. Patatap Clone                - <a href='https://nishianand05.github.io/Patatap-clone/'>
-5. RGB Color game               - <a href='https://nishianand05.github.io/wdb/Color-game/'> 
-6. To-do-list                   - <a href='https://nishianand05.github.io/wdb/To-do-list-project/'>
-7. Photo grid                   - <a href='https://nishianand05.github.io/wdb/Photo-grid/'>
-8. Score keeper                 - <a href='https://nishianand05.github.io/wdb/Scorekeeper/'>
-9. Pattern photo gallery        - <a href='https://nishianand05.github.io/Pattern/'>
-10. Blog site                    - <a href='https://nishianand05.github.io/wdb/Blog/'>
-11. Purrfect startup page        - <a href='https://nishianand05.github.io/wdb/Purrfect-startup/'>
-12. Bootstrap gallery           - <a href='https://nishianand05.github.io/wdb/bootstrap-gallery.html'>
-13. D3 - Cellular Subscription V.S. Literacy rate Scatterplot - <a href='https://nishianand05.github.io/D3-Scatterplots/CellularSubsVSLitRate/'>
-14. D3 - Life Expectancy V.S. Births per capita Scatterplot - <a href='https://nishianand05.github.io/D3-Scatterplots/LifeExpVSBirthsPerCapita/'>
-14. D3 - World Birth yearly data Pie Chart - <a href='https://nishianand05.github.io/D3-Piechart/WorldBirthData/'>
-14. D3 - Births by month and quarter, Yearly data, Pie Chart - <a href='https://nishianand05.github.io/D3-Piechart/BirthsByMonth/'>
+<ol>
+  <li><a href='https://nishianand05.github.io/MountainTravelStartupPage/'>Mountain travel startup page</li> 
+  <li><a href='https://nishianand05.github.io/guessThePassword/'>Guess the Password</li>           
+  <li><a href='https://nishianand05.github.io/Museum-of-candy/'>Museum of candy startup page</li> 
+  <li><a href='https://nishianand05.github.io/Patatap-clone/'>Patatap Clone</li>                
+  <li><a href='https://nishianand05.github.io/wdb/Color-game/'>RGB Color game</li>                
+  <li><a href='https://nishianand05.github.io/wdb/To-do-list-project/'>To-do-list</li>                   
+  <li><a href='https://nishianand05.github.io/wdb/Photo-grid/'>Photo grid</li>                   
+  <li><a href='https://nishianand05.github.io/wdb/Scorekeeper/'>Score keeper</li>                 
+  <li><a href='https://nishianand05.github.io/Pattern/'>Pattern photo gallery</li>        
+  <li><a href='https://nishianand05.github.io/wdb/Blog/'> Blog site</li>                    
+  <li><a href='https://nishianand05.github.io/wdb/Purrfect-startup/'>Purrfect startup page</li>        
+  <li><a href='https://nishianand05.github.io/wdb/bootstrap-gallery.html'>Bootstrap gallery</li>           
+  <li><a href='https://nishianand05.github.io/D3-Scatterplots/CellularSubsVSLitRate/'>D3 - Cellular Subscription V.S. Literacy rate Scatterplot</li> 
+  <li><a href='https://nishianand05.github.io/D3-Scatterplots/LifeExpVSBirthsPerCapita/'>D3 - Life Expectancy V.S. Births per capita Scatterplot</li> 
+  <li><a href='https://nishianand05.github.io/D3-Piechart/WorldBirthData/'>D3 - World Birth yearly data Pie Chart</li> 
+  <li><a href='https://nishianand05.github.io/D3-Piechart/BirthsByMonth/'>D3 - Births by month and quarter, Yearly data, Pie Chart</li> 
+</ol>
