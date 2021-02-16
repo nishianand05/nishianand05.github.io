@@ -23,4 +23,5 @@ Following are the links to view the web pages i developed.
   <li><a href='https://nishianand05.github.io/D3-Scatterplots/LifeExpVSBirthsPerCapita/'>D3 - Life Expectancy V.S. Births per capita Scatterplot</a></li> 
   <li><a href='https://nishianand05.github.io/D3-Piechart/WorldBirthData/'>D3 - World Birth yearly data Pie Chart</a></li> 
   <li><a href='https://nishianand05.github.io/D3-Piechart/BirthsByMonth/'>D3 - Births by month and quarter, Yearly data, Pie Chart</a></li> 
+  <li><a href='https://nishianand05.github.io/D3-OddsAndEnds/'>D3 - Methane vs. CO2 emissions per capita, Scatterplot</a></li> 
 </ol>
