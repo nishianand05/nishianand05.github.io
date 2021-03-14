@@ -24,5 +24,5 @@ Following are the links to view the web pages i developed.
   <li><a href='https://nishianand05.github.io/D3-Piechart/WorldBirthData/'>D3 - World Birth yearly data Pie Chart</a></li> 
   <li><a href='https://nishianand05.github.io/D3-Piechart/BirthsByMonth/'>D3 - Births by month and quarter, Yearly data, Pie Chart</a></li> 
   <li><a href='https://nishianand05.github.io/D3-OddsAndEnds/'>D3 - Methane vs. CO2 emissions per capita, Scatterplot</a></li> 
-  <li><a href='https://nishianand05.github.io/D3-Maps/'>D3 - Population, Population Density, Median age & Fertility Rate Estimates - 2017</a></li> 
+  <li><a href='https://nishianand05.github.io/D3-Map/'>D3 - Population, Population Density, Median age & Fertility Rate Estimates - 2017</a></li> 
 </ol>
