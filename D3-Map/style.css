@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;700&display=swap');
+
+body {
+    zoom: 85%;
+}
+
+* {
+    font-family: 'Big Shoulders Display', cursive;
+}
+svg, select {
+    margin: 0 auto;
+    display: block;
+    /* border: 1px solid red; */
+}
+
+h2 {
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+path {
+    stroke: rgb(73, 73, 73);
+    stroke-width: 0.25px;
+}
